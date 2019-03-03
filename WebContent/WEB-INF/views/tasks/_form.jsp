@@ -5,4 +5,4 @@
 <br /><br />
 
 <input type="hidden" name="_token" value="${_token}" />
-<button type="submit">タスク追加</button>
+<button type="submit">タスク追加/更新</button>
